@@ -20,7 +20,7 @@ It is created using **HTML and CSS** to design a vibrant and beautiful digital P
 Here is a preview of my Pookkalam design:
 
 ![Pookkalam Screenshot](screenshot.png)
-![Pookkalam Screenrecorded](screenrecorded.mp4)
+
 
 ---
 
